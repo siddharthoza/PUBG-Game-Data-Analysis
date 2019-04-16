@@ -1,6 +1,6 @@
 # Player Unknown's Battle Grounds (PUBG) Game Data Analysis 
 > An analysis of Player Unknown's Battle Grounds (PUBG) Game Data using Hive and Spark. The project was done as part of Big Data Analysis class at the University of Texas at Dallas.
-The final presentation for the report can be found in [project presentation](https://github.com/siddharthoza/Big%20Data%20Project%20-%20Group%207-%20Final.pdf).
+The final presentation for the report can be found in [project presentation](https://github.com/siddharthoza/Big Data Project-Group 7- Final.pdf).
 
 ## Table of contents
 * [General info](#general-info)
