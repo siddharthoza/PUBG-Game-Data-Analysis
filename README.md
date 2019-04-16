@@ -1,6 +1,6 @@
 # Player Unknown's Battle Grounds (PUBG) Game Data Analysis 
 > An analysis of Player Unknown's Battle Grounds (PUBG) Game Data using Hive and Spark. The project was done as part of Big Data Analysis class at the University of Texas at Dallas.
-The final presentation for the report can be found in [project presentation](https://github.com/harshbg/PUBG/blob/master/Big%20Data%20Project%20-%20Group%207-%20Final.pdf).
+The final presentation for the report can be found in [project presentation](https://github.com/siddharthoza/PUBG/blob/master/Big%20Data%20Project%20-%20Group%207-%20Final.pdf).
 
 ## Table of contents
 * [General info](#general-info)
@@ -136,11 +136,10 @@ The answers to the questions can be found in the [report](https://github.com/har
 Project is: _finished_
 
 ## Contact
-Created by me and my teammates [Siddharth Oza](https://github.com/siddharthoza) and [Devarsh Patel](https://github.com/Devarsh-UTD).
+Created by me and my teammates [Harsh Gupta](https://github.com/harshbg) and [Devarsh Patel](https://github.com/Devarsh-UTD).
 
 If you loved what you read here and feel like we can collaborate to produce some exciting stuff, or if you
-just want to shoot a question, please feel free to connect with me on <a href="hello@gupta-harsh.com" target="_blank">email</a>, 
-<a href="http://bit.ly/2uOIUeo" target="_blank">LinkedIn</a>, or 
-<a href="http://bit.ly/2CZv1i5" target="_blank">Twitter</a>. 
-My other projects can be found [here](http://bit.ly/2UlyFgC).
+just want to shoot a question, please feel free to connect with me on <a href="siddharth.oza@outlook.com" target="_blank">email</a>, 
+<a href=" http://www.linkedin.com/in/siddharthoza" target="_blank">LinkedIn</a>, or 
+My other projects can be found [here](www.siddharthoza.com).
 
