@@ -136,7 +136,7 @@ The answers to the questions can be found in the [report](https://github.com/har
 Project is: _finished_
 
 ## Contact
-Created by me and my teammates [Harsh Gupta](https://github.com/harshbg) and [Devarsh Patel](https://github.com/Devarsh-UTD).
+Created by me and my teammates Harsh Gupta and [Devarsh Patel](https://github.com/Devarsh-UTD).
 
 If you loved what you read here and feel like we can collaborate to produce some exciting stuff, or if you
 just want to shoot a question, please feel free to connect with me on <a href="siddharth.oza@outlook.com" target="_blank">email</a>, 
